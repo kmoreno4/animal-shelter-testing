@@ -2,7 +2,7 @@ import { Heart, Users, Home, Award } from 'lucide-react';
 import Intercom from '@intercom/messenger-js-sdk';
 
 Intercom({
-  app_id: "la2b8pe2",
+  app_id: "dj450vr1",
   user_id: "1", // IMPORTANT: Replace "user.id" with the variable you use to capture the user's ID
   name: "Kevin Moreno", // IMPORTANT: Replace "user.name" with the variable you use to capture the user's name
   email: "Kevin.moreno+testing1@intercom.io", // IMPORTANT: Replace "user.email" with the variable you use to capture the user's email
