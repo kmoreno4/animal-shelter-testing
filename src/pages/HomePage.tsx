@@ -6,9 +6,9 @@ import { Filter } from 'lucide-react';
 import Intercom from '@intercom/messenger-js-sdk';
 
 Intercom({
-  app_id: "la2b8pe2",
+  app_id: "dj450vr1",
   user_id: "1", // IMPORTANT: Replace "user.id" with the variable you use to capture the user's ID
-  name: "Sid Mann", // IMPORTANT: Replace "user.name" with the variable you use to capture the user's name
+  name: "Kevin Moreno", // IMPORTANT: Replace "user.name" with the variable you use to capture the user's name
   email: "sid.mann+shelter+testing@intercom.io", // IMPORTANT: Replace "user.email" with the variable you use to capture the user's email
   created_at: 1762561760, // IMPORTANT: Replace "user.createdAt" with the variable you use to capture the user's sign-up date in a Unix timestamp (in seconds) e.g. 1704067200
 });
