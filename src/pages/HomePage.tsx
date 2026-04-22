@@ -9,7 +9,7 @@ Intercom({
   app_id: "dj450vr1",
   user_id: "1", // IMPORTANT: Replace "user.id" with the variable you use to capture the user's ID
   name: "Kevin Moreno", // IMPORTANT: Replace "user.name" with the variable you use to capture the user's name
-  email: "sid.mann+shelter+testing@intercom.io", // IMPORTANT: Replace "user.email" with the variable you use to capture the user's email
+  email: "Kevin.moreno+testing1@intercom.io", // IMPORTANT: Replace "user.email" with the variable you use to capture the user's email
   created_at: 1762561760, // IMPORTANT: Replace "user.createdAt" with the variable you use to capture the user's sign-up date in a Unix timestamp (in seconds) e.g. 1704067200
 });
 
